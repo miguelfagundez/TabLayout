@@ -26,7 +26,7 @@ public class FirstFragment extends Fragment {
 }
 ```
 
-Defining viewpager and tablayout in .xml file:
+Defining viewpager and tablayout in .xml file (separate or together):
 
 ```
     <androidx.viewpager.widget.ViewPager
